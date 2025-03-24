@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="app_name">FashionApp</string>
+    <string name="company_name">MAVERO</string>
+    <string name="company_motto">A Contemporary fashion brand that embodies sleek sophistication</string>
+
+
+    <string name="action_shop_man">Shop man</string>
+    <string name="action_shop_woman">Shop woman</string>
+</resources>
