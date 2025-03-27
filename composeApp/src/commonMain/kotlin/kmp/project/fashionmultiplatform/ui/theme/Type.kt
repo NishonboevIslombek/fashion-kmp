@@ -35,11 +35,26 @@ fun FashionTypography(): Typography {
             fontWeight = FontWeight.Light,
             fontSize = 14.sp
         ),
-        labelMedium = TextStyle(
+        titleSmall = TextStyle(
+            fontFamily = CormorantGaramontFontFamily,
+            fontWeight = FontWeight.Light,
+            fontSize = 12.sp
+        ),
+        labelLarge = TextStyle(
             fontFamily = FontFamily.SansSerif,
-            fontWeight = FontWeight.SemiBold,
+            fontWeight = FontWeight.Medium,
             letterSpacing = 0.5.sp,
             fontSize = 16.sp
+        ),
+        labelMedium = TextStyle(
+            fontFamily = FontFamily.SansSerif,
+            fontWeight = FontWeight.Normal,
+            fontSize = 14.sp
+        ),
+        labelSmall = TextStyle(
+            fontFamily = FontFamily.Serif,
+            fontWeight = FontWeight.Bold,
+            fontSize = 14.sp
         )
     )
 }
