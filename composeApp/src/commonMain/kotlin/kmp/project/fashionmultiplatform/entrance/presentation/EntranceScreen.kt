@@ -45,7 +45,7 @@ fun BrandSection(modifier: Modifier = Modifier) {
             .fillMaxSize()
     ) {
         Text(
-            text = stringResource(Res.string.company_motto),
+            text = stringResource(Res.string.company_motto).uppercase(),
             style = MaterialTheme.typography.displaySmall,
             color = Color.Black,
             modifier = Modifier

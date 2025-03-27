@@ -32,7 +32,7 @@ fun RoundedActionButton(
         Text(
             text = text.uppercase(),
             color = if (isDarkButton) MaterialTheme.colorScheme.onPrimary else MaterialTheme.colorScheme.primary,
-            style = MaterialTheme.typography.labelMedium
+            style = MaterialTheme.typography.labelLarge
         )
     }
 }
