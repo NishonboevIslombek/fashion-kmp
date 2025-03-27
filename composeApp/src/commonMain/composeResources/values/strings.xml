@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">FashionApp</string>
     <string name="company_name">MAVERO</string>
-    <string name="company_motto">A Contemporary fashion brand that embodies sleek sophistication</string>
+    <string name="company_motto">A Contemporary fashion\nbrand that embodies sleek sophistication</string>
 
 
     <string name="action_shop_man">Shop man</string>
